@@ -1,0 +1,14 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "Creating Some api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanjeev",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
